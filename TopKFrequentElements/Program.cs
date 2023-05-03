@@ -1,4 +1,5 @@
-﻿//Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
+﻿//LeetCode 347
+//Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 static int[] TopKFrequent(int[] nums, int k)
 {
     int[] resultArr = new int[k];

@@ -1,4 +1,5 @@
-﻿//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+﻿//LeetCode 1
+//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 using System;
 
 static int[] TwoSum(int[] nums, int target)

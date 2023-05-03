@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopKFrequentElements", "TopKFrequentElements\TopKFrequentElements.csproj", "{D24D2250-8227-4F05-8EDA-FB412CA69323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{65904C1C-FAA7-4166-9477-55F87F080287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D24D2250-8227-4F05-8EDA-FB412CA69323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24D2250-8227-4F05-8EDA-FB412CA69323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24D2250-8227-4F05-8EDA-FB412CA69323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65904C1C-FAA7-4166-9477-55F87F080287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65904C1C-FAA7-4166-9477-55F87F080287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65904C1C-FAA7-4166-9477-55F87F080287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65904C1C-FAA7-4166-9477-55F87F080287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
