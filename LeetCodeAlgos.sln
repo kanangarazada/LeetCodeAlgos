@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{783980DC-07D7-433C-8CBA-34267DE4C469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{301D6BA8-B98B-4005-9648-8A50F5DF2B1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{301D6BA8-B98B-4005-9648-8A50F5DF2B1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopKFrequentElements", "TopKFrequentElements\TopKFrequentElements.csproj", "{D24D2250-8227-4F05-8EDA-FB412CA69323}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopKFrequentElements", "TopKFrequentElements\TopKFrequentElements.csproj", "{D24D2250-8227-4F05-8EDA-FB412CA69323}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{65904C1C-FAA7-4166-9477-55F87F080287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{65904C1C-FAA7-4166-9477-55F87F080287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidSudoku", "Valid Sudoku\ValidSudoku.csproj", "{6873A47E-4E1F-44FA-948A-490FD825E9DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{65904C1C-FAA7-4166-9477-55F87F080287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65904C1C-FAA7-4166-9477-55F87F080287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65904C1C-FAA7-4166-9477-55F87F080287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6873A47E-4E1F-44FA-948A-490FD825E9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6873A47E-4E1F-44FA-948A-490FD825E9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6873A47E-4E1F-44FA-948A-490FD825E9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6873A47E-4E1F-44FA-948A-490FD825E9DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

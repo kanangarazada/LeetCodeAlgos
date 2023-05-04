@@ -17,7 +17,7 @@ static int[] TopKFrequent(int[] nums, int k)
 		countOfIndexes[nums[i]]++;
 	}
 
-    //keys are array's elements and priorities are frequency of the element in array keep the size of queue fixed on k parameter
+    //keys are array's elements and priorities are frequency of the element in array, keep the size of queue fixed based on k parameter
     var pq = new PriorityQueue<int, int>();
     foreach (var key in countOfIndexes.Keys)
     {
