@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidSudoku", "Valid Sudoku\ValidSudoku.csproj", "{6873A47E-4E1F-44FA-948A-490FD825E9DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeAndDecode", "EncodeAndDecode\EncodeAndDecode.csproj", "{9A7162C5-3417-405E-8DE8-E34DCD7B4FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncodeAndDecode", "EncodeAndDecode\EncodeAndDecode.csproj", "{9A7162C5-3417-405E-8DE8-E34DCD7B4FCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{93ECC291-0919-467C-B462-A8CADE59D9A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{93ECC291-0919-467C-B462-A8CADE59D9A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyAndSellStock", "BuyAndSellStock\BuyAndSellStock.csproj", "{0770B3AD-1EAE-46D4-90C4-6F13165EF3D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyAndSellStock", "BuyAndSellStock\BuyAndSellStock.csproj", "{0770B3AD-1EAE-46D4-90C4-6F13165EF3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParantheses", "ValidParantheses\ValidParantheses.csproj", "{75852B4C-F0F3-43EB-8EB7-1C51530EBB35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0770B3AD-1EAE-46D4-90C4-6F13165EF3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0770B3AD-1EAE-46D4-90C4-6F13165EF3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0770B3AD-1EAE-46D4-90C4-6F13165EF3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75852B4C-F0F3-43EB-8EB7-1C51530EBB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75852B4C-F0F3-43EB-8EB7-1C51530EBB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75852B4C-F0F3-43EB-8EB7-1C51530EBB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75852B4C-F0F3-43EB-8EB7-1C51530EBB35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
