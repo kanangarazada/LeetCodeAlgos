@@ -34,5 +34,3 @@ static int EvalRPN(string[] tokens)
 
     return stack.Pop();
 }
-
-EvalRPN(new string[]{ "4", "13", "5", "/", "+" });

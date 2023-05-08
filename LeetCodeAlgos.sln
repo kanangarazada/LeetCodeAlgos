@@ -31,9 +31,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stack", "Stack", "{9974CD71
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sliding Window", "Sliding Window", "{828126BF-88F4-4CFD-BB07-774040B7F93B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{958F9CC9-9AC2-4294-BF2F-5864FD21A8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinStack", "MinStack\MinStack.csproj", "{958F9CC9-9AC2-4294-BF2F-5864FD21A8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{4582505D-6865-40BE-9759-11195B58D8EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.csproj", "{4582505D-6865-40BE-9759-11195B58D8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{4582505D-6865-40BE-9759-11195B58D8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4582505D-6865-40BE-9759-11195B58D8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4582505D-6865-40BE-9759-11195B58D8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{75852B4C-F0F3-43EB-8EB7-1C51530EBB35} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{958F9CC9-9AC2-4294-BF2F-5864FD21A8D0} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{4582505D-6865-40BE-9759-11195B58D8EF} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
+		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75649BD3-25C7-4A1F-987A-43F6C1700A93}
