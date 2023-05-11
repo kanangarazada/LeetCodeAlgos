@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversePolishNotation", "Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateParentheses", "GenerateParentheses\GenerateParentheses.csproj", "{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyTemperatures", "DailyTemperatures\DailyTemperatures.csproj", "{A2A09DA8-62B1-4EB1-B3FC-136989E7954A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailyTemperatures", "DailyTemperatures\DailyTemperatures.csproj", "{A2A09DA8-62B1-4EB1-B3FC-136989E7954A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFleet", "CarFleet\CarFleet.csproj", "{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{A2A09DA8-62B1-4EB1-B3FC-136989E7954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A09DA8-62B1-4EB1-B3FC-136989E7954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A09DA8-62B1-4EB1-B3FC-136989E7954A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{4582505D-6865-40BE-9759-11195B58D8EF} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{7D9E9C11-3AC3-460B-ADD4-0DB619C83D0A} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{A2A09DA8-62B1-4EB1-B3FC-136989E7954A} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
+		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75649BD3-25C7-4A1F-987A-43F6C1700A93}
