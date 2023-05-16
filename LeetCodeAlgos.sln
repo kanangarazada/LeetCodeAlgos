@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestRectangleInHistogram
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Two Pointers", "Two Pointers", "{F2E02E32-77CE-40E5-BEF0-F530973D125D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{4AD5E0FB-9133-4192-96F0-3A1109885452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{4AD5E0FB-9133-4192-96F0-3A1109885452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumII", "TwoSumII\TwoSumII.csproj", "{93986751-A5F2-44DB-BD01-D0B1AED468A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +127,10 @@ Global
 		{4AD5E0FB-9133-4192-96F0-3A1109885452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD5E0FB-9133-4192-96F0-3A1109885452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD5E0FB-9133-4192-96F0-3A1109885452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93986751-A5F2-44DB-BD01-D0B1AED468A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93986751-A5F2-44DB-BD01-D0B1AED468A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93986751-A5F2-44DB-BD01-D0B1AED468A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93986751-A5F2-44DB-BD01-D0B1AED468A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +154,7 @@ Global
 		{BDB265A1-2006-4CFC-B073-DAA6DA99D8F7} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{A2985AAB-D7B2-46A8-ABBF-A8813664C810} = {9974CD71-0276-4EF5-BBAD-540A4937BC1B}
 		{4AD5E0FB-9133-4192-96F0-3A1109885452} = {F2E02E32-77CE-40E5-BEF0-F530973D125D}
+		{93986751-A5F2-44DB-BD01-D0B1AED468A2} = {F2E02E32-77CE-40E5-BEF0-F530973D125D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75649BD3-25C7-4A1F-987A-43F6C1700A93}
